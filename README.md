@@ -1,4 +1,7 @@
-# Terms and Policies
+<p align="center">
+  <h1>Terms and Policies</h1>
+</p>
+
 Welcome to MongoGen, the magical MongoDB generation bot that makes creating databases a breeze! Before you start building your dream database, please take a moment to read our terms and policies.
 ***
 ## Data Privacy and Security
